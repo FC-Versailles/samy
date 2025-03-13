@@ -68,25 +68,25 @@ if st.button("📲 Contact Sport Director"):
 st.markdown("<hr style='border:1px solid #ddd' />", unsafe_allow_html=True)
 
 # Vertical Display with Expanders
-with st.expander("👤 Player Career | xxx"):
+with st.expander("👤 Player Career | Looking for an international project"):
     image = load_image_from_github("fiche.png")
     if image:
         st.image(image, use_container_width=True)
     st.write("Freddy has progressed rapidly through divisions, demonstrating strong development potential.Freddy is a young talented forward player, right footed. His career path illustrate the potential and the development of Freddy. In 21/22 he played in 6th division, 22/23 he was transfered in USL Dunkerque in the 3rd Division. 23/24 USL Dunkerque jump in 2nd division and Freddy was in loan to Nimes in 3rd division. Freddy is ready to take a new step in his career")
 
-with st.expander("📍 Position Played | xxx"):
+with st.expander("📍 Position Played | Advanced N°10 or False 9"):
     image = load_image_from_github("position.png")
     if image:
         st.image(image, use_container_width=True)
     st.write("Freddy primarily plays as a left winger but is also comfortable as a second striker or right winger. Freddy is a complete forward player.")
 
-with st.expander("⏳ Minutes played | A captain"):
+with st.expander("⏳ Minutes played | A captain - Technical leadership"):
     image = load_image_from_github("minutes_played.png")
     if image:
         st.image(image, use_container_width=True)
     st.write("This season Freddy is a key player for the team. Freddy took 22/23 lineups and more than 90% of the available minutes. For the first time of his career he took 2 yellows cards that bring to a missing match.")
 
-with st.expander("🛡 Player Profile | Number 10 & Striker"):
+with st.expander("🛡 Player Profile | Mobile & technical finisher"):
     image = load_image_from_github("leaugue_Comparison.png")
     if image:
         st.image(image, use_container_width=True)
