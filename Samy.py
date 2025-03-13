@@ -28,23 +28,29 @@ st.link_button("Transfermarkt Profile", "https://www.transfermarkt.fr/samy-baghd
 
 st.markdown("<hr style='border:1px solid #ddd' />", unsafe_allow_html=True)
 
-# Key Insights
 st.header("🔍 Key Insights")
 st.markdown(
     """
-    **XXXX is an talented forward player with lot of potential. His football profile and personality are two strong indicators that suggest Freddy will reach the highest level.**
-    
-    **Personality & mentality** 🏃‍♂️💨
-    - Strong determination to reach high level 
-    - Huge focus on his career and his individual development 
+    **Samy Baghdadi** is a **dynamic and versatile forward** who excels in **pressing, link-up play, and goal-scoring movements**.  
+    His ability to combine **off-the-ball work rate** with **attacking efficiency** makes him a strong asset for teams looking to enhance their forward line.  
 
-    
-    **Football Profile**  🎯
-    - Dribbling & Carrying: Excellent (P86) 
-    - Shot Efficiency: Post-shot xG and touch in the box 
-    - Speed & explosiveness : Strong physical habilities
+    ### **Personality & Mentality 🏃‍♂️💨**  
+    - **High work rate** – presses aggressively and contributes defensively.  
+    - **Resilient and adaptable** – has played in different leagues and systems.  
+    - **Team-oriented mindset** – involved in both build-up play and goal-scoring opportunities.  
 
-    **Best suited for:** Freddy can help teams that play the offensive transition or direct play (speed, run behind) and also in positonnal attack (1v1 as winger or second striker) 🏹⚡
+    ### **Football Profile 🎯**  
+    - **Pressing & Defensive Contribution:** Strong (high possession-adjusted pressures).  
+    - **Link-Up Play & Passing:** Effective in combination play, supports build-up.  
+    - **Finishing & xG Output:** Good shot selection but **room for improvement in conversion rate**.  
+    - **Speed & Movement:** Agile, quick in transition, and makes intelligent runs behind defenses.  
+
+    ### **Best Suited For**  
+    ✅ **High-intensity pressing teams** (Saudi Pro League , or MLS).  
+    ✅ **Teams that play direct attacking football**, focusing on transition speed.  
+    ✅ **Clubs looking for a versatile forward** who can play as a **striker or wide forward**.  
+
+    **Samy Baghdadi is at the perfect moment to take a step up**, and his skill set makes him an **ideal candidate for an ambitious club** in a top-tier or competitive second-tier league. 🚀  
     """
 )
 
