@@ -34,18 +34,18 @@ st.markdown(
     **Samy Baghdadi** is a **dynamic and versatile forward** who excels in **pressing, link-up play, and goal-scoring movements**.  
     His ability to combine **off-the-ball work rate** with **attacking efficiency** makes him a strong asset for teams looking to enhance their forward line.  
 
-    ### **Personality & Mentality 🏃‍♂️💨**  
+    ##### **Personality & Mentality 🏃‍♂️💨**  
     - **High work rate** – presses aggressively and contributes defensively.  
     - **Resilient and adaptable** – has played in different leagues and systems.  
     - **Team-oriented mindset** – involved in both build-up play and goal-scoring opportunities.  
 
-    ### **Football Profile 🎯**  
+    ##### **Football Profile 🎯**  
     - **Pressing & Defensive Contribution:** Strong (high possession-adjusted pressures).  
     - **Link-Up Play & Passing:** Effective in combination play, supports build-up.  
     - **Finishing & xG Output:** Good shot selection but **room for improvement in conversion rate**.  
     - **Speed & Movement:** Agile, quick in transition, and makes intelligent runs behind defenses.  
 
-    ### **Best Suited For**  
+    ##### **Best Suited For**  
     ✅ **High-intensity pressing teams** (Saudi Pro League , or MLS).  
     ✅ **Teams that play direct attacking football**, focusing on transition speed.  
     ✅ **Clubs looking for a versatile forward** who can play as a **striker or wide forward**.  
