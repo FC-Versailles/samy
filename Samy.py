@@ -68,72 +68,146 @@ if st.button("📲 Contact Sport Director"):
 st.markdown("<hr style='border:1px solid #ddd' />", unsafe_allow_html=True)
 
 # Vertical Display with Expanders
-with st.expander("👤 Player Career | Looking for an international project"):
+with st.expander("👤 Player Career | Looking for an International Project"):
     image = load_image_from_github("fiche.png")
     if image:
         st.image(image, use_container_width=True)
-    st.write("Freddy has progressed rapidly through divisions, demonstrating strong development potential.Freddy is a young talented forward player, right footed. His career path illustrate the potential and the development of Freddy. In 21/22 he played in 6th division, 22/23 he was transfered in USL Dunkerque in the 3rd Division. 23/24 USL Dunkerque jump in 2nd division and Freddy was in loan to Nimes in 3rd division. Freddy is ready to take a new step in his career")
+    
+    st.markdown(
+        """
+        ### **Why It’s Time for Him to Play Abroad Again**  
+
+        #### **🏆 Peak Years (26-29) Age Bracket)**  
+        - At **27 years old**, he is at his **physical and technical peak**.  
+        - If he wants a **bigger challenge**, now is the time before his prime years fade.  
+
+        #### **🇫🇷 Proven Performance in France**  
+        - He has performed well in the **Championnat National (3rd tier) and Ligue 2**.  
+        - His **goal-scoring ability and versatility** (playing as a striker and winger) make him attractive for foreign clubs.  
+
+        #### **📈 Need for Higher-Level Competition**  
+        - Staying in **France’s 3rd division** limits exposure.  
+        - Moving to a **stronger league (Belgium, Netherlands, or Portugal)** could help him elevate his game.  
+
+
+        #### **💰 Increasing Market Value & Financial Benefits**  
+        - A move abroad could significantly **boost his salary**. 
+        - Many clubs outside France (**Middle East, MLS, or Belgium**) offer **better financial incentives**.  
+        """
+    )
 
 with st.expander("📍 Position Played | Advanced N°10 or False 9"):
     image = load_image_from_github("position.png")
     if image:
         st.image(image, use_container_width=True)
-    st.write("Freddy primarily plays as a left winger but is also comfortable as a second striker or right winger. Freddy is a complete forward player.")
+    st.write("Samy is a complete center offesnive player, he can play as number 10, contribute the game with his technical skills and passing habilities. He is also really good to play second striker, with high quality to move, reach the golden area and connect with striker. His quality of shooting shows that he can play as a striker")
 
 with st.expander("⏳ Minutes played | A captain - Technical leadership"):
     image = load_image_from_github("minutes_played.png")
     if image:
         st.image(image, use_container_width=True)
-    st.write("This season Freddy is a key player for the team. Freddy took 22/23 lineups and more than 90% of the available minutes. For the first time of his career he took 2 yellows cards that bring to a missing match.")
+    st.write("Samy become a more and more important player within the team. He is now our captain.")
 
 with st.expander("🛡 Player Profile | Mobile & technical finisher"):
     image = load_image_from_github("leaugue_Comparison.png")
     if image:
         st.image(image, use_container_width=True)
-    st.write("Freddy excels in high-intensity attacking scenarios, with great dribbling skills and goal instincts. Freddy Mbemba is a high-intensity, direct winger with strong dribbling and goal-scoring instincts. His ability to take on defenders and progress the ball makes him an exciting attacking asset, but improving his crossing precision and playmaking could make him a more complete forward. 🚀")
+    st.write("Samy is an offensive-minded forward or attacking midfielder who is highly effective in both goal-scoring and playmaking. His ability to progress the ball, make key passes, and pressure the opposition makes him an asset in attack. His playing style suggests he thrives in a possession-based, attacking team where he can receive the ball in advanced areas and contribute to finishing or assisting.")
 
 with st.expander("⚽ Shot Map | Top Shooter"):
     image = load_image_from_github("Shot_map.png")
     if image:
         st.image(image, use_container_width=True)
-    st.write("Freddy is an efficient goal scorer with a strong xG conversion rate.")
+    
+    st.markdown(
+        """
+        **Key Statistics**  
+        - **Expected Goals (xG):** 7.77  
+        - **Actual Goals Scored:** 7 goals  
+        - **Total Shots Taken:** 46 shots  
+        - **Overperformance:** +2.35 goals (including 1 goal and 3 penalties)  
+        - **xG per Shot (open play only):** 0.180  
+        """
+    )
 
-with st.expander("📈 Performance Progression | xxx"):
+with st.expander("📈 Performance Progression | more efficient and well-rounded attacker"):
     image = load_image_from_github("progression.png")
     if image:
-        st.image(image, use_container_width=True)
-    st.write("Freddy Mbemba has transitioned into a more effective goal-scorer and playmaker (xG assisted), as seen by his higher xG assisted and goal contribution stats. However, there is a slight trade-off in his dribbling and ball progression, suggesting either a tactical shift (e.g., playing higher up the pitch) or defensive adaptation from opponents.")
-
-with st.expander("👥 Player Comparison | xxxxx"):
+            st.image(image, use_container_width=True)
+        
+    st.markdown(
+            """
+            This radar chart compares **Samy Baghdadi’s** performance across key metrics from the **2023/24 season (red)** to the **2024/25 season (blue)**.
+    
+            ### **Overall Analysis**  
+            - **Samy has transformed into a more efficient and well-rounded attacker.**  
+            - His **goal contributions, playmaking, and attacking involvement** have all improved.  
+            - **Defensive contributions (pressing intensity) have dropped**, possibly due to a more advanced or specialized role.
+            """
+        )
+with st.expander("👥 Player Comparison | Samy Baghdadi vs. Jonathan David"):
     image = load_image_from_github("radar.png")
     if image:
         st.image(image, use_container_width=True)
-    st.write("Advanced radar stats highlighting Freddy's capabilities to reach top level.")
+    
+    st.markdown(
+        """
+        ### **Comparison: Samy Baghdadi vs. Jonathan David**  
+        This radar chart compares **Samy Baghdadi (red)** to **Jonathan David (blue)**, a **first-division striker** (Lille OSC, Ligue 1).  
+        The comparison provides insights into **how Samy stacks up against a proven top-flight forward**.
+
+        ### **📊 What This Means for Samy Baghdadi’s Development**  
+        🔹 **Samy is an effective pressing forward** with strong passing and build-up play.  
+        🔹 **However, to compete at the first-division level, he needs to improve:**  
+
+        - **xG and finishing ability** → Taking **higher-quality shots** and improving **conversion rate**.  
+        - **Touches in the box & off-ball movements** → Finding **better positions for scoring chances**.  
+        - **Dribbling and deep progressions** → Becoming **more dangerous in the final third**.  
+
+        ### **🏆 Final Verdict: Ready for a Step Up?**  
+        ✅ **Samy has first-division potential**, but he must **refine his attacking efficiency** to match a top-tier forward like **Jonathan David**.  
+        ✅ A move to a **stronger league (Belgium, Netherlands, Portugal) or Ligue 2** could be the right transition before reaching the **top flight**.  
+        """
+    )
 
 
 with st.expander("🏋️ Physical Performance | xxxx"):
     image = load_image_from_github("physique.png")
     if image:
         st.image(image, use_container_width=True)
-    st.write("Endurance: Covers significant distance per game (10,845m), showcasing strong stamina. Speed: Reaches a top speed of 32.5 km/h, indicating strong sprint capabilities. In term of intensity: High acceleration/deceleration numbers (35 accelerations, 38 decelerations per game), proving his ability to make explosive movements and quick changes of direction. Sprint Efforts: 27 sprints per game, maintaining a good balance between high-intensity bursts and recovery.")
+    st.write("xxxx")
 
-with st.expander("🤕 Injury History | xxxx"):
+with st.expander("🤕 Injury History | Samy"):
     image = load_image_from_github("injuries.png")
     if image:
         st.image(image, use_container_width=True)
-    st.write("Freddy has maintained excellent availability with no major injuries this season. Freddy is a robust player. He did not get any injury this year that bring 100% of availabity for training and match. He takes care about his body with some session with physio (massage & cares).")
+    
+    st.markdown(
+        """
+        **Samy has been fortunate to avoid any long-term injuries and has never missed a match due to injury.**  
+        However, the performance team closely monitors his knee to ensure optimal condition and prevent potential issues.  
 
-with st.expander("⚖️ Weight Evolution xxxxx"):
+        For this reason, we have implemented an **individualized plan** for him, which includes:
+
+        - **Training adaptation** to manage workload and reduce stress on the knee,  
+        - **Prevention strategies** such as targeted exercises and recovery protocols,  
+        - **Fitness development** to strengthen key areas and enhance durability.  
+
+        This proactive approach helps Samy maintain peak performance while minimizing injury risks.
+        """
+    )
+
+with st.expander("⚖️ Weight Evolution | Professional player"):
     image = load_image_from_github("poids.png")
     if image:
         st.image(image, use_container_width=True)
-    st.write("Monitoring body composition is key to performance optimization. He is currently working with a nutritionist")
+    st.write("Monitoring body composition is key to performance optimization. Samy cares about his weight and body fat")
 
-with st.expander("🔥 Personnality & Motivation | high self determination"):
+with st.expander("🔥 Personnality & Motivation | Real passion for football & competitor"):
     image = load_image_from_github("Happiness.png")
     if image:
         st.image(image, use_container_width=True)
-    st.write("Freddy is highly motivated and dedicated to his football journey. His motivation runs deep, rooted in his childhood passion, with a constant desire to progress and reach the highest levels of football.")
+    st.write("Samy loves competition and fight for the win. He passionate about football and expect an interesting contract for his prime.")
 
 with st.expander("📊 Game Report"):
     image = load_image_from_github("game_report.png")
