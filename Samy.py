@@ -177,11 +177,11 @@ with st.expander("👥 Player Comparison | Samy Baghdadi vs. Jonathan David"):
     )
 
 
-with st.expander("🏋️ Physical Performance | xxxx"):
+with st.expander("🏋️ Physical Performance | Global Athlete"):
     image = load_image_from_github("physique.png")
     if image:
         st.image(image, use_container_width=True)
-    st.write("xxxx")
+    st.write("Complete athlete")
 
 with st.expander("🤕 Injury History | Samy"):
     image = load_image_from_github("injuries.png")
